@@ -1,1 +1,1 @@
-[ICS2O_Notes](https://LW-OCSB/ICS2O_Notes/2O_HTML_Files/)
+[ICS2O_Notes](https://lw-ocsb.github.io/ICS2O_SPH2021/2O_HTML_Files/)
